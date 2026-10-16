@@ -48,7 +48,7 @@ covid_project/
 ├── app.py              # Streamlit app (loads models/)
 ├── requirements.txt
 ├── README.md
-├── data/
+├── covid.zip/
 │   └── covid.csv       # NOT in the repo - add your dataset here
 └── models/             # created by train.py
     ├── death.joblib
