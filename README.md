@@ -63,6 +63,9 @@ covid_project/
 Requires Python 3.9 - 3.12.
 
 ```bash
+
+#unzip the covid.zip file to get the covid.csv file
+
 # 1. create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate            # Windows
